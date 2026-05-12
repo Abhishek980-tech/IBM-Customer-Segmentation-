@@ -69,4 +69,3 @@ Open http://localhost:8501 for interactive cluster analysis.
 See `requirements.txt` for full list (Streamlit, scikit-learn, pandas, plotly, etc.).
 
 ## License
-MIT License
